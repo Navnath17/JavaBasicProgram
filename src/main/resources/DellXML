@@ -1,0 +1,3252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('serverDeviceCards')</Property>
+  <Property Name="InventoryType">serverDeviceCards</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Id">31577</Property>
+      <Property Name="SlotNumber">RAID.Slot.3-1</Property>
+      <Property Name="Manufacturer">Broadcom / LSI</Property>
+      <Property Name="Description">PERC H740P Adapter</Property>
+      <Property Name="DatabusWidth">16x or x16</Property>
+      <Property Name="SlotLength">LongLength</Property>
+      <Property Name="SlotType">PCI Express Gen 3</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31578</Property>
+      <Property Name="SlotNumber">ISABridge.Embedded.1-1</Property>
+      <Property Name="Manufacturer">Intel Corporation</Property>
+      <Property Name="Description">C621 Series Chipset LPC/eSPI Controller</Property>
+      <Property Name="DatabusWidth">Unknown</Property>
+      <Property Name="SlotLength">Unknown</Property>
+      <Property Name="SlotType">Unknown</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31579</Property>
+      <Property Name="SlotNumber">HostBridge.Embedded.1-1</Property>
+      <Property Name="Manufacturer">Intel Corporation</Property>
+      <Property Name="Description">Sky Lake-E DMI3 Registers</Property>
+      <Property Name="DatabusWidth">Unknown</Property>
+      <Property Name="SlotLength">Unknown</Property>
+      <Property Name="SlotType">Unknown</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31580</Property>
+      <Property Name="SlotNumber">AHCI.Embedded.1-1</Property>
+      <Property Name="Manufacturer">Intel Corporation</Property>
+      <Property Name="Description">C620 Series Chipset Family SSATA Controller [AHCI mode]</Property>
+      <Property Name="DatabusWidth">Unknown</Property>
+      <Property Name="SlotLength">Unknown</Property>
+      <Property Name="SlotType">Unknown</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31581</Property>
+      <Property Name="SlotNumber">Video.Embedded.1-1</Property>
+      <Property Name="Manufacturer">Matrox Electronics Systems Ltd.</Property>
+      <Property Name="Description">Integrated Matrox G200eW3 Graphics Controller</Property>
+      <Property Name="DatabusWidth">Unknown</Property>
+      <Property Name="SlotLength">Unknown</Property>
+      <Property Name="SlotType">Unknown</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31582</Property>
+      <Property Name="SlotNumber">P2PBridge.Embedded.1-1</Property>
+      <Property Name="Manufacturer">Intel Corporation</Property>
+      <Property Name="Description">C620 Series Chipset Family PCI Express Root Port #1</Property>
+      <Property Name="DatabusWidth">Unknown</Property>
+      <Property Name="SlotLength">Unknown</Property>
+      <Property Name="SlotType">Unknown</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31583</Property>
+      <Property Name="SlotNumber">NIC.Integrated.1-3-1</Property>
+      <Property Name="Manufacturer">Broadcom Inc. and subsidiaries</Property>
+      <Property Name="Description">NetXtreme BCM5720 Gigabit Ethernet PCIe</Property>
+      <Property Name="DatabusWidth">Unknown</Property>
+      <Property Name="SlotLength">Unknown</Property>
+      <Property Name="SlotType">Unknown</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31584</Property>
+      <Property Name="SlotNumber">NIC.Integrated.1-1-1</Property>
+      <Property Name="Manufacturer">Broadcom Inc. and subsidiaries</Property>
+      <Property Name="Description">NetXtreme BCM5720 Gigabit Ethernet PCIe</Property>
+      <Property Name="DatabusWidth">Unknown</Property>
+      <Property Name="SlotLength">Unknown</Property>
+      <Property Name="SlotType">Unknown</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31585</Property>
+      <Property Name="SlotNumber">NIC.Integrated.1-4-1</Property>
+      <Property Name="Manufacturer">Broadcom Inc. and subsidiaries</Property>
+      <Property Name="Description">NetXtreme BCM5720 Gigabit Ethernet PCIe</Property>
+      <Property Name="DatabusWidth">Unknown</Property>
+      <Property Name="SlotLength">Unknown</Property>
+      <Property Name="SlotType">Unknown</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31586</Property>
+      <Property Name="SlotNumber">NIC.Integrated.1-2-1</Property>
+      <Property Name="Manufacturer">Broadcom Inc. and subsidiaries</Property>
+      <Property Name="Description">NetXtreme BCM5720 Gigabit Ethernet PCIe</Property>
+      <Property Name="DatabusWidth">Unknown</Property>
+      <Property Name="SlotLength">Unknown</Property>
+      <Property Name="SlotType">Unknown</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31587</Property>
+      <Property Name="SlotNumber">SMBus.Embedded.3-1</Property>
+      <Property Name="Manufacturer">Intel Corporation</Property>
+      <Property Name="Description">C620 Series Chipset Family SMBus</Property>
+      <Property Name="DatabusWidth">Unknown</Property>
+      <Property Name="SlotLength">Unknown</Property>
+      <Property Name="SlotType">Unknown</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31588</Property>
+      <Property Name="SlotNumber">AHCI.Embedded.2-1</Property>
+      <Property Name="Manufacturer">Intel Corporation</Property>
+      <Property Name="Description">C620 Series Chipset Family SATA Controller [AHCI mode]</Property>
+      <Property Name="DatabusWidth">Unknown</Property>
+      <Property Name="SlotLength">Unknown</Property>
+      <Property Name="SlotType">Unknown</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31589</Property>
+      <Property Name="SlotNumber">P2PBridge.Embedded.2-1</Property>
+      <Property Name="Manufacturer">Intel Corporation</Property>
+      <Property Name="Description">C620 Series Chipset Family PCI Express Root Port #5</Property>
+      <Property Name="DatabusWidth">Unknown</Property>
+      <Property Name="SlotLength">Unknown</Property>
+      <Property Name="SlotType">Unknown</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31590</Property>
+      <Property Name="SlotNumber">NIC.Slot.4-1-1</Property>
+      <Property Name="Manufacturer">Intel Corporation</Property>
+      <Property Name="Description">Ethernet 10G 2P X710 Adapter</Property>
+      <Property Name="DatabusWidth">16x or x16</Property>
+      <Property Name="SlotLength">LongLength</Property>
+      <Property Name="SlotType">PCI Express Gen 3</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">31591</Property>
+      <Property Name="SlotNumber">NIC.Slot.4-2-1</Property>
+      <Property Name="Manufacturer">Intel Corporation</Property>
+      <Property Name="Description">Ethernet Converged Network Adapter X710</Property>
+      <Property Name="DatabusWidth">16x or x16</Property>
+      <Property Name="SlotLength">LongLength</Property>
+      <Property Name="SlotType">PCI Express Gen 3</Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('serverProcessors')</Property>
+  <Property Name="InventoryType">serverProcessors</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Id">902</Property>
+      <Property Name="Family">Intel(R) Xeon(TM)</Property>
+      <Property Name="MaxSpeed">4000</Property>
+      <Property Name="CurrentSpeed">2300</Property>
+      <Property Name="SlotNumber">CPU.Socket.2</Property>
+      <Property Name="Status">2000</Property>
+      <Property Name="NumberOfCores">18</Property>
+      <Property Name="NumberOfEnabledCores">18</Property>
+      <Property Name="BrandName">Intel</Property>
+      <Property Name="ModelName">Intel(R) Xeon(R) Gold 6140M CPU @ 2.30GHz</Property>
+      <Property Name="InstanceId">CPU.Socket.2</Property>
+      <Property Name="Voltage">1.8</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">903</Property>
+      <Property Name="Family">Intel(R) Xeon(TM)</Property>
+      <Property Name="MaxSpeed">4000</Property>
+      <Property Name="CurrentSpeed">2300</Property>
+      <Property Name="SlotNumber">CPU.Socket.3</Property>
+      <Property Name="Status">2000</Property>
+      <Property Name="NumberOfCores">18</Property>
+      <Property Name="NumberOfEnabledCores">18</Property>
+      <Property Name="BrandName">Intel</Property>
+      <Property Name="ModelName">Intel(R) Xeon(R) Gold 6140M CPU @ 2.30GHz</Property>
+      <Property Name="InstanceId">CPU.Socket.3</Property>
+      <Property Name="Voltage">1.8</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">904</Property>
+      <Property Name="Family">Intel(R) Xeon(TM)</Property>
+      <Property Name="MaxSpeed">4000</Property>
+      <Property Name="CurrentSpeed">2300</Property>
+      <Property Name="SlotNumber">CPU.Socket.4</Property>
+      <Property Name="Status">2000</Property>
+      <Property Name="NumberOfCores">18</Property>
+      <Property Name="NumberOfEnabledCores">18</Property>
+      <Property Name="BrandName">Intel</Property>
+      <Property Name="ModelName">Intel(R) Xeon(R) Gold 6140M CPU @ 2.30GHz</Property>
+      <Property Name="InstanceId">CPU.Socket.4</Property>
+      <Property Name="Voltage">1.8</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">905</Property>
+      <Property Name="Family">Intel(R) Xeon(TM)</Property>
+      <Property Name="MaxSpeed">4000</Property>
+      <Property Name="CurrentSpeed">2300</Property>
+      <Property Name="SlotNumber">CPU.Socket.1</Property>
+      <Property Name="Status">2000</Property>
+      <Property Name="NumberOfCores">18</Property>
+      <Property Name="NumberOfEnabledCores">18</Property>
+      <Property Name="BrandName">Intel</Property>
+      <Property Name="ModelName">Intel(R) Xeon(R) Gold 6140M CPU @ 2.30GHz</Property>
+      <Property Name="InstanceId">CPU.Socket.1</Property>
+      <Property Name="Voltage">1.8</Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('serverDellVideos')</Property>
+  <Property Name="InventoryType">serverDellVideos</Property>
+  <Property Name="InventoryInfo" />
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('serverNetworkInterfaces')</Property>
+  <Property Name="InventoryType">serverNetworkInterfaces</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="NicId">NIC.Integrated.1</Property>
+      <Property Name="VendorName">Broadcom Corp</Property>
+      <Property Name="Ports">
+        <Property>
+          <Property Name="PortId">NIC.Integrated.1-1</Property>
+          <Property Name="ProductName">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6C</Property>
+          <Property Name="LinkStatus">Down</Property>
+          <Property Name="LinkSpeed">1000</Property>
+          <Property Name="Partitions">
+            <Property>
+              <Property Name="Fqdd">NIC.Integrated.1-1-1</Property>
+              <Property Name="CurrentMacAddress">80:18:44:F0:4F:6C</Property>
+              <Property Name="PermanentMacAddress">80:18:44:F0:4F:6C</Property>
+              <Property Name="PermanentIscsiMacAddress"></Property>
+              <Property Name="PermanentFcoeMacAddress"></Property>
+              <Property Name="Wwn"></Property>
+              <Property Name="Wwpn"></Property>
+              <Property Name="VirtualWwn"></Property>
+              <Property Name="VirtualWwpn"></Property>
+              <Property Name="VirtualMacAddress">80:18:44:F0:4F:6C</Property>
+              <Property Name="NicMode">Unknown</Property>
+              <Property Name="FcoeMode">Unknown</Property>
+              <Property Name="IscsiMode">Unknown</Property>
+              <Property Name="MinBandwidth">0</Property>
+              <Property Name="MaxBandwidth">0</Property>
+            </Property>
+          </Property>
+        </Property>
+        <Property>
+          <Property Name="PortId">NIC.Integrated.1-2</Property>
+          <Property Name="ProductName">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6D</Property>
+          <Property Name="LinkStatus">Down</Property>
+          <Property Name="LinkSpeed">0</Property>
+          <Property Name="Partitions">
+            <Property>
+              <Property Name="Fqdd">NIC.Integrated.1-2-1</Property>
+              <Property Name="CurrentMacAddress">80:18:44:F0:4F:6D</Property>
+              <Property Name="PermanentMacAddress">80:18:44:F0:4F:6D</Property>
+              <Property Name="PermanentIscsiMacAddress"></Property>
+              <Property Name="PermanentFcoeMacAddress"></Property>
+              <Property Name="Wwn"></Property>
+              <Property Name="Wwpn"></Property>
+              <Property Name="VirtualWwn"></Property>
+              <Property Name="VirtualWwpn"></Property>
+              <Property Name="VirtualMacAddress">80:18:44:F0:4F:6D</Property>
+              <Property Name="NicMode">Unknown</Property>
+              <Property Name="FcoeMode">Unknown</Property>
+              <Property Name="IscsiMode">Unknown</Property>
+              <Property Name="MinBandwidth">0</Property>
+              <Property Name="MaxBandwidth">0</Property>
+            </Property>
+          </Property>
+        </Property>
+        <Property>
+          <Property Name="PortId">NIC.Integrated.1-3</Property>
+          <Property Name="ProductName">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6E</Property>
+          <Property Name="LinkStatus">Down</Property>
+          <Property Name="LinkSpeed">0</Property>
+          <Property Name="Partitions">
+            <Property>
+              <Property Name="Fqdd">NIC.Integrated.1-3-1</Property>
+              <Property Name="CurrentMacAddress">80:18:44:F0:4F:6E</Property>
+              <Property Name="PermanentMacAddress">80:18:44:F0:4F:6E</Property>
+              <Property Name="PermanentIscsiMacAddress"></Property>
+              <Property Name="PermanentFcoeMacAddress"></Property>
+              <Property Name="Wwn"></Property>
+              <Property Name="Wwpn"></Property>
+              <Property Name="VirtualWwn"></Property>
+              <Property Name="VirtualWwpn"></Property>
+              <Property Name="VirtualMacAddress">80:18:44:F0:4F:6E</Property>
+              <Property Name="NicMode">Unknown</Property>
+              <Property Name="FcoeMode">Unknown</Property>
+              <Property Name="IscsiMode">Unknown</Property>
+              <Property Name="MinBandwidth">0</Property>
+              <Property Name="MaxBandwidth">0</Property>
+            </Property>
+          </Property>
+        </Property>
+        <Property>
+          <Property Name="PortId">NIC.Integrated.1-4</Property>
+          <Property Name="ProductName">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6F</Property>
+          <Property Name="LinkStatus">Down</Property>
+          <Property Name="LinkSpeed">0</Property>
+          <Property Name="Partitions">
+            <Property>
+              <Property Name="Fqdd">NIC.Integrated.1-4-1</Property>
+              <Property Name="CurrentMacAddress">80:18:44:F0:4F:6F</Property>
+              <Property Name="PermanentMacAddress">80:18:44:F0:4F:6F</Property>
+              <Property Name="PermanentIscsiMacAddress"></Property>
+              <Property Name="PermanentFcoeMacAddress"></Property>
+              <Property Name="Wwn"></Property>
+              <Property Name="Wwpn"></Property>
+              <Property Name="VirtualWwn"></Property>
+              <Property Name="VirtualWwpn"></Property>
+              <Property Name="VirtualMacAddress">80:18:44:F0:4F:6F</Property>
+              <Property Name="NicMode">Unknown</Property>
+              <Property Name="FcoeMode">Unknown</Property>
+              <Property Name="IscsiMode">Unknown</Property>
+              <Property Name="MinBandwidth">0</Property>
+              <Property Name="MaxBandwidth">0</Property>
+            </Property>
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="NicId">NIC.Slot.4</Property>
+      <Property Name="VendorName">Intel Corp</Property>
+      <Property Name="Ports">
+        <Property>
+          <Property Name="PortId">NIC.Slot.4-1</Property>
+          <Property Name="ProductName">Intel(R) Ethernet Converged Network Adapter X710 - 3C:FD:FE:06:49:60</Property>
+          <Property Name="InitiatorName">ValueCleared</Property>
+          <Property Name="InitiatorIpAddress">0.0.0.0</Property>
+          <Property Name="InitiatorSubnetMask">0.0.0.0</Property>
+          <Property Name="InitiatorGateway">0.0.0.0</Property>
+          <Property Name="InitiatorPrimaryDns"></Property>
+          <Property Name="InitiatorSecondaryDns"></Property>
+          <Property Name="TargetIpAddress">0.0.0.0</Property>
+          <Property Name="LinkStatus">Down</Property>
+          <Property Name="LinkSpeed">0</Property>
+          <Property Name="Partitions">
+            <Property>
+              <Property Name="Fqdd">NIC.Slot.4-1-1</Property>
+              <Property Name="CurrentMacAddress">3C:FD:FE:06:49:60</Property>
+              <Property Name="PermanentMacAddress">3C:FD:FE:06:49:60</Property>
+              <Property Name="PermanentIscsiMacAddress"></Property>
+              <Property Name="PermanentFcoeMacAddress">3c:fd:fe:06:49:61</Property>
+              <Property Name="Wwn"></Property>
+              <Property Name="Wwpn"></Property>
+              <Property Name="VirtualWwn"></Property>
+              <Property Name="VirtualWwpn"></Property>
+              <Property Name="VirtualMacAddress">00:00:00:00:00:00</Property>
+              <Property Name="NicMode">Enabled</Property>
+              <Property Name="FcoeMode">Unknown</Property>
+              <Property Name="IscsiMode">Unknown</Property>
+              <Property Name="MinBandwidth">0</Property>
+              <Property Name="MaxBandwidth">0</Property>
+            </Property>
+          </Property>
+        </Property>
+        <Property>
+          <Property Name="PortId">NIC.Slot.4-2</Property>
+          <Property Name="ProductName">Intel(R) Ethernet Converged Network Adapter X710 - 3C:FD:FE:06:49:62</Property>
+          <Property Name="InitiatorName">ValueCleared</Property>
+          <Property Name="InitiatorIpAddress">0.0.0.0</Property>
+          <Property Name="InitiatorSubnetMask">0.0.0.0</Property>
+          <Property Name="InitiatorGateway">0.0.0.0</Property>
+          <Property Name="InitiatorPrimaryDns"></Property>
+          <Property Name="InitiatorSecondaryDns"></Property>
+          <Property Name="TargetIpAddress">0.0.0.0</Property>
+          <Property Name="LinkStatus">Down</Property>
+          <Property Name="LinkSpeed">0</Property>
+          <Property Name="Partitions">
+            <Property>
+              <Property Name="Fqdd">NIC.Slot.4-2-1</Property>
+              <Property Name="CurrentMacAddress">3C:FD:FE:06:49:62</Property>
+              <Property Name="PermanentMacAddress">3C:FD:FE:06:49:62</Property>
+              <Property Name="PermanentIscsiMacAddress"></Property>
+              <Property Name="PermanentFcoeMacAddress">3c:fd:fe:06:49:63</Property>
+              <Property Name="Wwn"></Property>
+              <Property Name="Wwpn"></Property>
+              <Property Name="VirtualWwn"></Property>
+              <Property Name="VirtualWwpn"></Property>
+              <Property Name="VirtualMacAddress">00:00:00:00:00:00</Property>
+              <Property Name="NicMode">Enabled</Property>
+              <Property Name="FcoeMode">Unknown</Property>
+              <Property Name="IscsiMode">Unknown</Property>
+              <Property Name="MinBandwidth">0</Property>
+              <Property Name="MaxBandwidth">0</Property>
+            </Property>
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('serverFcCards')</Property>
+  <Property Name="InventoryType">serverFcCards</Property>
+  <Property Name="InventoryInfo" />
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('serverOperatingSystems')</Property>
+  <Property Name="InventoryType">serverOperatingSystems</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Id">813</Property>
+      <Property Name="OsName"></Property>
+      <Property Name="OsVersion"></Property>
+      <Property Name="Hostname"></Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('serverVirtualFlashes')</Property>
+  <Property Name="InventoryType">serverVirtualFlashes</Property>
+  <Property Name="InventoryInfo" />
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('serverPowerSupplies')</Property>
+  <Property Name="InventoryType">serverPowerSupplies</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Id">3017</Property>
+      <Property Name="Name">Power Supply 1</Property>
+      <Property Name="PowerSupplyType">0</Property>
+      <Property Name="OutputWatts">1100</Property>
+      <Property Name="Location">PSU.Slot.1</Property>
+      <Property Name="RedundancyState">0</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="State">Presence Detected</Property>
+      <Property Name="FirmwareVersion">00.1D.7D</Property>
+      <Property Name="InputVoltage">0</Property>
+      <Property Name="Model">PWR SPLY,1100W,RDNT,DELTA</Property>
+      <Property Name="Manufacturer">DELL</Property>
+      <Property Name="Range1MaxInputPowerWatts">1260</Property>
+      <Property Name="SerialNumber">CNDED007B8309H</Property>
+      <Property Name="ActiveInputVoltage">Unknown</Property>
+      <Property Name="InputPowerUnits">Watts</Property>
+      <Property Name="OperationalStatus">Unknown</Property>
+      <Property Name="Range1MaxInputVoltageHighMilliVolts">264</Property>
+      <Property Name="RatedMaxOutputPower">0</Property>
+      <Property Name="RequestedState">0</Property>
+      <Property Name="AcInput">True</Property>
+      <Property Name="AcOutput">False</Property>
+      <Property Name="SwitchingSupply">True</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">3018</Property>
+      <Property Name="Name">Power Supply 2</Property>
+      <Property Name="PowerSupplyType">0</Property>
+      <Property Name="OutputWatts">1100</Property>
+      <Property Name="Location">PSU.Slot.2</Property>
+      <Property Name="RedundancyState">0</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="State">Presence Detected</Property>
+      <Property Name="FirmwareVersion">00.1D.7D</Property>
+      <Property Name="InputVoltage">0</Property>
+      <Property Name="Model">PWR SPLY,1100W,RDNT,DELTA</Property>
+      <Property Name="Manufacturer">DELL</Property>
+      <Property Name="Range1MaxInputPowerWatts">1260</Property>
+      <Property Name="SerialNumber">CNDED007B8309K</Property>
+      <Property Name="ActiveInputVoltage">Unknown</Property>
+      <Property Name="InputPowerUnits">Watts</Property>
+      <Property Name="OperationalStatus">Unknown</Property>
+      <Property Name="Range1MaxInputVoltageHighMilliVolts">264</Property>
+      <Property Name="RatedMaxOutputPower">0</Property>
+      <Property Name="RequestedState">0</Property>
+      <Property Name="AcInput">True</Property>
+      <Property Name="AcOutput">False</Property>
+      <Property Name="SwitchingSupply">True</Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('serverArrayDisks')</Property>
+  <Property Name="InventoryType">serverArrayDisks</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Id">3468</Property>
+      <Property Name="DiskNumber">Disk 0 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="VendorName">SEAGATE</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="StatusString">Unknown</Property>
+      <Property Name="ModelNumber">ST900MP0026</Property>
+      <Property Name="SerialNumber">WAG06KB3</Property>
+      <Property Name="SasAddress">5000C500A1663049</Property>
+      <Property Name="Revision">KT3A</Property>
+      <Property Name="ManufacturedDay">4</Property>
+      <Property Name="ManufacturedWeek">52</Property>
+      <Property Name="ManufacturedYear">2017</Property>
+      <Property Name="EncryptionAbility">False</Property>
+      <Property Name="FormFactor">2500</Property>
+      <Property Name="PartNumber">CN0XTH17SGW007CQ003FA01</Property>
+      <Property Name="PredictiveFailureState">No</Property>
+      <Property Name="EnclosureId">Disk.Bay.0:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+      <Property Name="Channel">0</Property>
+      <Property Name="Size">837.75 GB</Property>
+      <Property Name="FreeSpace">837.75</Property>
+      <Property Name="UsedSpace">0</Property>
+      <Property Name="BusType">SAS</Property>
+      <Property Name="SlotNumber">0</Property>
+      <Property Name="MediaType">Hard Disk Drive</Property>
+      <Property Name="RemainingReadWriteEndurance"></Property>
+      <Property Name="SecurityState">Unencrypted</Property>
+      <Property Name="RaidStatus">Ready</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">3469</Property>
+      <Property Name="DiskNumber">Disk 1 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="VendorName">SEAGATE</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="StatusString">Unknown</Property>
+      <Property Name="ModelNumber">ST900MP0026</Property>
+      <Property Name="SerialNumber">WAG06JVB</Property>
+      <Property Name="SasAddress">5000C500A166A5BD</Property>
+      <Property Name="Revision">KT3A</Property>
+      <Property Name="ManufacturedDay">4</Property>
+      <Property Name="ManufacturedWeek">52</Property>
+      <Property Name="ManufacturedYear">2017</Property>
+      <Property Name="EncryptionAbility">False</Property>
+      <Property Name="FormFactor">2500</Property>
+      <Property Name="PartNumber">CN0XTH17SGW007CQ004PA01</Property>
+      <Property Name="PredictiveFailureState">No</Property>
+      <Property Name="EnclosureId">Disk.Bay.1:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+      <Property Name="Channel">0</Property>
+      <Property Name="Size">837.75 GB</Property>
+      <Property Name="FreeSpace">837.75</Property>
+      <Property Name="UsedSpace">0</Property>
+      <Property Name="BusType">SAS</Property>
+      <Property Name="SlotNumber">1</Property>
+      <Property Name="MediaType">Hard Disk Drive</Property>
+      <Property Name="RemainingReadWriteEndurance"></Property>
+      <Property Name="SecurityState">Unencrypted</Property>
+      <Property Name="RaidStatus">Ready</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">3470</Property>
+      <Property Name="DiskNumber">Disk 2 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="VendorName">SEAGATE</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="StatusString">Unknown</Property>
+      <Property Name="ModelNumber">ST900MP0026</Property>
+      <Property Name="SerialNumber">WAG06X35</Property>
+      <Property Name="SasAddress">5000C500A166E7ED</Property>
+      <Property Name="Revision">KT3A</Property>
+      <Property Name="ManufacturedDay">4</Property>
+      <Property Name="ManufacturedWeek">52</Property>
+      <Property Name="ManufacturedYear">2017</Property>
+      <Property Name="EncryptionAbility">False</Property>
+      <Property Name="FormFactor">2500</Property>
+      <Property Name="PartNumber">CN0XTH17SGW007CQ00HCA01</Property>
+      <Property Name="PredictiveFailureState">No</Property>
+      <Property Name="EnclosureId">Disk.Bay.2:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+      <Property Name="Channel">0</Property>
+      <Property Name="Size">837.75 GB</Property>
+      <Property Name="FreeSpace">837.75</Property>
+      <Property Name="UsedSpace">0</Property>
+      <Property Name="BusType">SAS</Property>
+      <Property Name="SlotNumber">2</Property>
+      <Property Name="MediaType">Hard Disk Drive</Property>
+      <Property Name="RemainingReadWriteEndurance"></Property>
+      <Property Name="SecurityState">Unencrypted</Property>
+      <Property Name="RaidStatus">Ready</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">3471</Property>
+      <Property Name="DiskNumber">Disk 3 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="VendorName">SEAGATE</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="StatusString">Unknown</Property>
+      <Property Name="ModelNumber">ST900MP0026</Property>
+      <Property Name="SerialNumber">WAG06J5S</Property>
+      <Property Name="SasAddress">5000C500A166D67D</Property>
+      <Property Name="Revision">KT3A</Property>
+      <Property Name="ManufacturedDay">4</Property>
+      <Property Name="ManufacturedWeek">52</Property>
+      <Property Name="ManufacturedYear">2017</Property>
+      <Property Name="EncryptionAbility">False</Property>
+      <Property Name="FormFactor">2500</Property>
+      <Property Name="PartNumber">CN0XTH17SGW007CQ00PNA01</Property>
+      <Property Name="PredictiveFailureState">No</Property>
+      <Property Name="EnclosureId">Disk.Bay.3:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+      <Property Name="Channel">0</Property>
+      <Property Name="Size">837.75 GB</Property>
+      <Property Name="FreeSpace">837.75</Property>
+      <Property Name="UsedSpace">0</Property>
+      <Property Name="BusType">SAS</Property>
+      <Property Name="SlotNumber">3</Property>
+      <Property Name="MediaType">Hard Disk Drive</Property>
+      <Property Name="RemainingReadWriteEndurance"></Property>
+      <Property Name="SecurityState">Unencrypted</Property>
+      <Property Name="RaidStatus">Ready</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">3472</Property>
+      <Property Name="DiskNumber">Disk 4 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="VendorName">SEAGATE</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="StatusString">Unknown</Property>
+      <Property Name="ModelNumber">ST900MP0026</Property>
+      <Property Name="SerialNumber">WAG06JNJ</Property>
+      <Property Name="SasAddress">5000C500A166AAD5</Property>
+      <Property Name="Revision">KT3A</Property>
+      <Property Name="ManufacturedDay">4</Property>
+      <Property Name="ManufacturedWeek">52</Property>
+      <Property Name="ManufacturedYear">2017</Property>
+      <Property Name="EncryptionAbility">False</Property>
+      <Property Name="FormFactor">2500</Property>
+      <Property Name="PartNumber">CN0XTH17SGW007CQ003SA01</Property>
+      <Property Name="PredictiveFailureState">No</Property>
+      <Property Name="EnclosureId">Disk.Bay.4:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+      <Property Name="Channel">0</Property>
+      <Property Name="Size">837.75 GB</Property>
+      <Property Name="FreeSpace">837.75</Property>
+      <Property Name="UsedSpace">0</Property>
+      <Property Name="BusType">SAS</Property>
+      <Property Name="SlotNumber">4</Property>
+      <Property Name="MediaType">Hard Disk Drive</Property>
+      <Property Name="RemainingReadWriteEndurance"></Property>
+      <Property Name="SecurityState">Unencrypted</Property>
+      <Property Name="RaidStatus">Ready</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">3473</Property>
+      <Property Name="DiskNumber">Disk 5 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="VendorName">SEAGATE</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="StatusString">Unknown</Property>
+      <Property Name="ModelNumber">ST900MP0026</Property>
+      <Property Name="SerialNumber">WAG06K81</Property>
+      <Property Name="SasAddress">5000C500A1664189</Property>
+      <Property Name="Revision">KT3A</Property>
+      <Property Name="ManufacturedDay">4</Property>
+      <Property Name="ManufacturedWeek">52</Property>
+      <Property Name="ManufacturedYear">2017</Property>
+      <Property Name="EncryptionAbility">False</Property>
+      <Property Name="FormFactor">2500</Property>
+      <Property Name="PartNumber">CN0XTH17SGW007CQ0035A01</Property>
+      <Property Name="PredictiveFailureState">No</Property>
+      <Property Name="EnclosureId">Disk.Bay.5:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+      <Property Name="Channel">0</Property>
+      <Property Name="Size">837.75 GB</Property>
+      <Property Name="FreeSpace">837.75</Property>
+      <Property Name="UsedSpace">0</Property>
+      <Property Name="BusType">SAS</Property>
+      <Property Name="SlotNumber">5</Property>
+      <Property Name="MediaType">Hard Disk Drive</Property>
+      <Property Name="RemainingReadWriteEndurance"></Property>
+      <Property Name="SecurityState">Unencrypted</Property>
+      <Property Name="RaidStatus">Ready</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">3474</Property>
+      <Property Name="DiskNumber">Disk 6 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="VendorName">SEAGATE</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="StatusString">Unknown</Property>
+      <Property Name="ModelNumber">ST900MP0026</Property>
+      <Property Name="SerialNumber">WAG06JH1</Property>
+      <Property Name="SasAddress">5000C500A166B9C9</Property>
+      <Property Name="Revision">KT3A</Property>
+      <Property Name="ManufacturedDay">4</Property>
+      <Property Name="ManufacturedWeek">52</Property>
+      <Property Name="ManufacturedYear">2017</Property>
+      <Property Name="EncryptionAbility">False</Property>
+      <Property Name="FormFactor">2500</Property>
+      <Property Name="PartNumber">CN0XTH17SGW007CQ00NUA01</Property>
+      <Property Name="PredictiveFailureState">No</Property>
+      <Property Name="EnclosureId">Disk.Bay.6:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+      <Property Name="Channel">0</Property>
+      <Property Name="Size">837.75 GB</Property>
+      <Property Name="FreeSpace">837.75</Property>
+      <Property Name="UsedSpace">0</Property>
+      <Property Name="BusType">SAS</Property>
+      <Property Name="SlotNumber">6</Property>
+      <Property Name="MediaType">Hard Disk Drive</Property>
+      <Property Name="RemainingReadWriteEndurance"></Property>
+      <Property Name="SecurityState">Unencrypted</Property>
+      <Property Name="RaidStatus">Ready</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">3475</Property>
+      <Property Name="DiskNumber">Disk 7 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="VendorName">SEAGATE</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="StatusString">Unknown</Property>
+      <Property Name="ModelNumber">ST900MP0026</Property>
+      <Property Name="SerialNumber">WAG06JE2</Property>
+      <Property Name="SasAddress">5000C500A166BEF1</Property>
+      <Property Name="Revision">KT3A</Property>
+      <Property Name="ManufacturedDay">4</Property>
+      <Property Name="ManufacturedWeek">52</Property>
+      <Property Name="ManufacturedYear">2017</Property>
+      <Property Name="EncryptionAbility">False</Property>
+      <Property Name="FormFactor">2500</Property>
+      <Property Name="PartNumber">CN0XTH17SGW007CQ0096A01</Property>
+      <Property Name="PredictiveFailureState">No</Property>
+      <Property Name="EnclosureId">Disk.Bay.7:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+      <Property Name="Channel">0</Property>
+      <Property Name="Size">837.75 GB</Property>
+      <Property Name="FreeSpace">837.75</Property>
+      <Property Name="UsedSpace">0</Property>
+      <Property Name="BusType">SAS</Property>
+      <Property Name="SlotNumber">7</Property>
+      <Property Name="MediaType">Hard Disk Drive</Property>
+      <Property Name="RemainingReadWriteEndurance"></Property>
+      <Property Name="SecurityState">Unencrypted</Property>
+      <Property Name="RaidStatus">Ready</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">3476</Property>
+      <Property Name="DiskNumber">Disk 8 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="VendorName">SEAGATE</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="StatusString">Unknown</Property>
+      <Property Name="ModelNumber">ST900MP0026</Property>
+      <Property Name="SerialNumber">WAG06JAH</Property>
+      <Property Name="SasAddress">5000C500A166C97D</Property>
+      <Property Name="Revision">KT3A</Property>
+      <Property Name="ManufacturedDay">4</Property>
+      <Property Name="ManufacturedWeek">52</Property>
+      <Property Name="ManufacturedYear">2017</Property>
+      <Property Name="EncryptionAbility">False</Property>
+      <Property Name="FormFactor">2500</Property>
+      <Property Name="PartNumber">CN0XTH17SGW007CQ00KMA01</Property>
+      <Property Name="PredictiveFailureState">No</Property>
+      <Property Name="EnclosureId">Disk.Bay.8:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+      <Property Name="Channel">0</Property>
+      <Property Name="Size">837.75 GB</Property>
+      <Property Name="FreeSpace">837.75</Property>
+      <Property Name="UsedSpace">0</Property>
+      <Property Name="BusType">SAS</Property>
+      <Property Name="SlotNumber">8</Property>
+      <Property Name="MediaType">Hard Disk Drive</Property>
+      <Property Name="RemainingReadWriteEndurance"></Property>
+      <Property Name="SecurityState">Unencrypted</Property>
+      <Property Name="RaidStatus">Ready</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">3477</Property>
+      <Property Name="DiskNumber">Disk 9 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="VendorName">SEAGATE</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="StatusString">Unknown</Property>
+      <Property Name="ModelNumber">ST900MP0026</Property>
+      <Property Name="SerialNumber">WAG06JK2</Property>
+      <Property Name="SasAddress">5000C500A166B1F5</Property>
+      <Property Name="Revision">KT3A</Property>
+      <Property Name="ManufacturedDay">4</Property>
+      <Property Name="ManufacturedWeek">52</Property>
+      <Property Name="ManufacturedYear">2017</Property>
+      <Property Name="EncryptionAbility">False</Property>
+      <Property Name="FormFactor">2500</Property>
+      <Property Name="PartNumber">CN0XTH17SGW007CQ00NZA01</Property>
+      <Property Name="PredictiveFailureState">No</Property>
+      <Property Name="EnclosureId">Disk.Bay.9:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+      <Property Name="Channel">0</Property>
+      <Property Name="Size">837.75 GB</Property>
+      <Property Name="FreeSpace">837.75</Property>
+      <Property Name="UsedSpace">0</Property>
+      <Property Name="BusType">SAS</Property>
+      <Property Name="SlotNumber">9</Property>
+      <Property Name="MediaType">Hard Disk Drive</Property>
+      <Property Name="RemainingReadWriteEndurance"></Property>
+      <Property Name="SecurityState">Unencrypted</Property>
+      <Property Name="RaidStatus">Ready</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">3478</Property>
+      <Property Name="DiskNumber">Disk 10 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="VendorName">SEAGATE</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="StatusString">Unknown</Property>
+      <Property Name="ModelNumber">ST900MP0026</Property>
+      <Property Name="SerialNumber">WAG06X6K</Property>
+      <Property Name="SasAddress">5000C500A166DD25</Property>
+      <Property Name="Revision">KT3A</Property>
+      <Property Name="ManufacturedDay">4</Property>
+      <Property Name="ManufacturedWeek">52</Property>
+      <Property Name="ManufacturedYear">2017</Property>
+      <Property Name="EncryptionAbility">False</Property>
+      <Property Name="FormFactor">2500</Property>
+      <Property Name="PartNumber">CN0XTH17SGW007CQ00L2A01</Property>
+      <Property Name="PredictiveFailureState">No</Property>
+      <Property Name="EnclosureId">Disk.Bay.10:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+      <Property Name="Channel">0</Property>
+      <Property Name="Size">837.75 GB</Property>
+      <Property Name="FreeSpace">837.75</Property>
+      <Property Name="UsedSpace">0</Property>
+      <Property Name="BusType">SAS</Property>
+      <Property Name="SlotNumber">10</Property>
+      <Property Name="MediaType">Hard Disk Drive</Property>
+      <Property Name="RemainingReadWriteEndurance"></Property>
+      <Property Name="SecurityState">Unencrypted</Property>
+      <Property Name="RaidStatus">Ready</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">3479</Property>
+      <Property Name="DiskNumber">Disk 11 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="VendorName">SEAGATE</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="StatusString">Unknown</Property>
+      <Property Name="ModelNumber">ST900MP0026</Property>
+      <Property Name="SerialNumber">WAG06JBY</Property>
+      <Property Name="SasAddress">5000C500A166C659</Property>
+      <Property Name="Revision">KT3A</Property>
+      <Property Name="ManufacturedDay">4</Property>
+      <Property Name="ManufacturedWeek">52</Property>
+      <Property Name="ManufacturedYear">2017</Property>
+      <Property Name="EncryptionAbility">False</Property>
+      <Property Name="FormFactor">2500</Property>
+      <Property Name="PartNumber">CN0XTH17SGW007CQ00N8A01</Property>
+      <Property Name="PredictiveFailureState">No</Property>
+      <Property Name="EnclosureId">Disk.Bay.11:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+      <Property Name="Channel">0</Property>
+      <Property Name="Size">837.75 GB</Property>
+      <Property Name="FreeSpace">837.75</Property>
+      <Property Name="UsedSpace">0</Property>
+      <Property Name="BusType">SAS</Property>
+      <Property Name="SlotNumber">11</Property>
+      <Property Name="MediaType">Hard Disk Drive</Property>
+      <Property Name="RemainingReadWriteEndurance"></Property>
+      <Property Name="SecurityState">Unencrypted</Property>
+      <Property Name="RaidStatus">Ready</Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('serverRaidControllers')</Property>
+  <Property Name="InventoryType">serverRaidControllers</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Id">1775</Property>
+      <Property Name="Name">PERC H740P Adapter </Property>
+      <Property Name="Fqdd">RAID.Slot.3-1</Property>
+      <Property Name="DeviceDescription">RAID Controller in Slot 3</Property>
+      <Property Name="Status">2000</Property>
+      <Property Name="StatusTypeString">UNKNOWN</Property>
+      <Property Name="RollupStatus">2000</Property>
+      <Property Name="RollupStatusString">UNKNOWN</Property>
+      <Property Name="FirmwareVersion">51.16.0-4076</Property>
+      <Property Name="CacheSizeInMb">8192</Property>
+      <Property Name="PciSlot">3</Property>
+      <Property Name="DriverVersion"></Property>
+      <Property Name="StorageAssignmentAllowed">0</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">1776</Property>
+      <Property Name="Name">C620 Series Chipset Family SSATA Controller [AHCI mode]</Property>
+      <Property Name="Fqdd">AHCI.Embedded.1-1</Property>
+      <Property Name="DeviceDescription">Embedded AHCI 1</Property>
+      <Property Name="Status">2000</Property>
+      <Property Name="StatusTypeString">UNKNOWN</Property>
+      <Property Name="RollupStatus">2000</Property>
+      <Property Name="RollupStatusString">UNKNOWN</Property>
+      <Property Name="FirmwareVersion"></Property>
+      <Property Name="CacheSizeInMb">0</Property>
+      <Property Name="PciSlot">Not Applicable</Property>
+      <Property Name="DriverVersion"></Property>
+      <Property Name="StorageAssignmentAllowed">0</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">1777</Property>
+      <Property Name="Name">C620 Series Chipset Family SATA Controller [AHCI mode]</Property>
+      <Property Name="Fqdd">AHCI.Embedded.2-1</Property>
+      <Property Name="DeviceDescription">Embedded AHCI 2</Property>
+      <Property Name="Status">2000</Property>
+      <Property Name="StatusTypeString">UNKNOWN</Property>
+      <Property Name="RollupStatus">2000</Property>
+      <Property Name="RollupStatusString">UNKNOWN</Property>
+      <Property Name="FirmwareVersion"></Property>
+      <Property Name="CacheSizeInMb">0</Property>
+      <Property Name="PciSlot">Not Applicable</Property>
+      <Property Name="DriverVersion"></Property>
+      <Property Name="StorageAssignmentAllowed">0</Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('serverMemoryDevices')</Property>
+  <Property Name="InventoryType">serverMemoryDevices</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Id">8445</Property>
+      <Property Name="Name">DIMM.Socket.C10</Property>
+      <Property Name="BankName">C</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC50A</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.C10</Property>
+      <Property Name="DeviceDescription">DIMM C10</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8446</Property>
+      <Property Name="Name">DIMM.Socket.D11</Property>
+      <Property Name="BankName">D</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE16</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.D11</Property>
+      <Property Name="DeviceDescription">DIMM D11</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8447</Property>
+      <Property Name="Name">DIMM.Socket.C3</Property>
+      <Property Name="BankName">C</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE12</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.C3</Property>
+      <Property Name="DeviceDescription">DIMM C3</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8448</Property>
+      <Property Name="Name">DIMM.Socket.C6</Property>
+      <Property Name="BankName">C</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE08</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.C6</Property>
+      <Property Name="DeviceDescription">DIMM C6</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8449</Property>
+      <Property Name="Name">DIMM.Socket.B12</Property>
+      <Property Name="BankName">B</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC512</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.B12</Property>
+      <Property Name="DeviceDescription">DIMM B12</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8450</Property>
+      <Property Name="Name">DIMM.Socket.D10</Property>
+      <Property Name="BankName">D</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAEE9</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.D10</Property>
+      <Property Name="DeviceDescription">DIMM D10</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8451</Property>
+      <Property Name="Name">DIMM.Socket.D9</Property>
+      <Property Name="BankName">D</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DADF7</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.D9</Property>
+      <Property Name="DeviceDescription">DIMM D9</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8452</Property>
+      <Property Name="Name">DIMM.Socket.A11</Property>
+      <Property Name="BankName">A</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC507</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.A11</Property>
+      <Property Name="DeviceDescription">DIMM A11</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8453</Property>
+      <Property Name="Name">DIMM.Socket.B3</Property>
+      <Property Name="BankName">B</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC500</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.B3</Property>
+      <Property Name="DeviceDescription">DIMM B3</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8454</Property>
+      <Property Name="Name">DIMM.Socket.D3</Property>
+      <Property Name="BankName">D</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DADF8</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.D3</Property>
+      <Property Name="DeviceDescription">DIMM D3</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8455</Property>
+      <Property Name="Name">DIMM.Socket.C2</Property>
+      <Property Name="BankName">C</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE10</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.C2</Property>
+      <Property Name="DeviceDescription">DIMM C2</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8456</Property>
+      <Property Name="Name">DIMM.Socket.B1</Property>
+      <Property Name="BankName">B</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAEF6</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.B1</Property>
+      <Property Name="DeviceDescription">DIMM B1</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8457</Property>
+      <Property Name="Name">DIMM.Socket.D2</Property>
+      <Property Name="BankName">D</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DADEE</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.D2</Property>
+      <Property Name="DeviceDescription">DIMM D2</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8458</Property>
+      <Property Name="Name">DIMM.Socket.C7</Property>
+      <Property Name="BankName">C</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE07</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.C7</Property>
+      <Property Name="DeviceDescription">DIMM C7</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8459</Property>
+      <Property Name="Name">DIMM.Socket.B2</Property>
+      <Property Name="BankName">B</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC4FA</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.B2</Property>
+      <Property Name="DeviceDescription">DIMM B2</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8460</Property>
+      <Property Name="Name">DIMM.Socket.C8</Property>
+      <Property Name="BankName">C</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE24</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.C8</Property>
+      <Property Name="DeviceDescription">DIMM C8</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8461</Property>
+      <Property Name="Name">DIMM.Socket.B9</Property>
+      <Property Name="BankName">B</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC4F9</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.B9</Property>
+      <Property Name="DeviceDescription">DIMM B9</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8462</Property>
+      <Property Name="Name">DIMM.Socket.D1</Property>
+      <Property Name="BankName">D</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAEDF</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.D1</Property>
+      <Property Name="DeviceDescription">DIMM D1</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8463</Property>
+      <Property Name="Name">DIMM.Socket.B5</Property>
+      <Property Name="BankName">B</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC506</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.B5</Property>
+      <Property Name="DeviceDescription">DIMM B5</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8464</Property>
+      <Property Name="Name">DIMM.Socket.B7</Property>
+      <Property Name="BankName">B</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DADEF</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.B7</Property>
+      <Property Name="DeviceDescription">DIMM B7</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8465</Property>
+      <Property Name="Name">DIMM.Socket.D6</Property>
+      <Property Name="BankName">D</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE13</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.D6</Property>
+      <Property Name="DeviceDescription">DIMM D6</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8466</Property>
+      <Property Name="Name">DIMM.Socket.C1</Property>
+      <Property Name="BankName">C</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE06</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.C1</Property>
+      <Property Name="DeviceDescription">DIMM C1</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8467</Property>
+      <Property Name="Name">DIMM.Socket.B10</Property>
+      <Property Name="BankName">B</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC4FE</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.B10</Property>
+      <Property Name="DeviceDescription">DIMM B10</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8468</Property>
+      <Property Name="Name">DIMM.Socket.A10</Property>
+      <Property Name="BankName">A</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE00</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.A10</Property>
+      <Property Name="DeviceDescription">DIMM A10</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8469</Property>
+      <Property Name="Name">DIMM.Socket.A9</Property>
+      <Property Name="BankName">A</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE71</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.A9</Property>
+      <Property Name="DeviceDescription">DIMM A9</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8470</Property>
+      <Property Name="Name">DIMM.Socket.D8</Property>
+      <Property Name="BankName">D</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DADED</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.D8</Property>
+      <Property Name="DeviceDescription">DIMM D8</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8471</Property>
+      <Property Name="Name">DIMM.Socket.C4</Property>
+      <Property Name="BankName">C</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC509</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.C4</Property>
+      <Property Name="DeviceDescription">DIMM C4</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8472</Property>
+      <Property Name="Name">DIMM.Socket.A3</Property>
+      <Property Name="BankName">A</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC50F</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.A3</Property>
+      <Property Name="DeviceDescription">DIMM A3</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8473</Property>
+      <Property Name="Name">DIMM.Socket.D7</Property>
+      <Property Name="BankName">D</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAEDE</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.D7</Property>
+      <Property Name="DeviceDescription">DIMM D7</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8474</Property>
+      <Property Name="Name">DIMM.Socket.C9</Property>
+      <Property Name="BankName">C</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE11</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.C9</Property>
+      <Property Name="DeviceDescription">DIMM C9</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8475</Property>
+      <Property Name="Name">DIMM.Socket.A1</Property>
+      <Property Name="BankName">A</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC52B</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.A1</Property>
+      <Property Name="DeviceDescription">DIMM A1</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8476</Property>
+      <Property Name="Name">DIMM.Socket.A5</Property>
+      <Property Name="BankName">A</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC556</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.A5</Property>
+      <Property Name="DeviceDescription">DIMM A5</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8477</Property>
+      <Property Name="Name">DIMM.Socket.B4</Property>
+      <Property Name="BankName">B</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC501</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.B4</Property>
+      <Property Name="DeviceDescription">DIMM B4</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8478</Property>
+      <Property Name="Name">DIMM.Socket.A2</Property>
+      <Property Name="BankName">A</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC52D</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.A2</Property>
+      <Property Name="DeviceDescription">DIMM A2</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8479</Property>
+      <Property Name="Name">DIMM.Socket.A8</Property>
+      <Property Name="BankName">A</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC52C</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.A8</Property>
+      <Property Name="DeviceDescription">DIMM A8</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8480</Property>
+      <Property Name="Name">DIMM.Socket.B11</Property>
+      <Property Name="BankName">B</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC504</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.B11</Property>
+      <Property Name="DeviceDescription">DIMM B11</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8481</Property>
+      <Property Name="Name">DIMM.Socket.A4</Property>
+      <Property Name="BankName">A</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE02</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.A4</Property>
+      <Property Name="DeviceDescription">DIMM A4</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8482</Property>
+      <Property Name="Name">DIMM.Socket.A12</Property>
+      <Property Name="BankName">A</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC555</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.A12</Property>
+      <Property Name="DeviceDescription">DIMM A12</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8483</Property>
+      <Property Name="Name">DIMM.Socket.C5</Property>
+      <Property Name="BankName">C</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC505</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.C5</Property>
+      <Property Name="DeviceDescription">DIMM C5</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8484</Property>
+      <Property Name="Name">DIMM.Socket.D5</Property>
+      <Property Name="BankName">D</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE15</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.D5</Property>
+      <Property Name="DeviceDescription">DIMM D5</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8485</Property>
+      <Property Name="Name">DIMM.Socket.D4</Property>
+      <Property Name="BankName">D</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAEE6</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.D4</Property>
+      <Property Name="DeviceDescription">DIMM D4</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8486</Property>
+      <Property Name="Name">DIMM.Socket.D12</Property>
+      <Property Name="BankName">D</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE14</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.D12</Property>
+      <Property Name="DeviceDescription">DIMM D12</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8487</Property>
+      <Property Name="Name">DIMM.Socket.C11</Property>
+      <Property Name="BankName">C</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC508</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.C11</Property>
+      <Property Name="DeviceDescription">DIMM C11</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8488</Property>
+      <Property Name="Name">DIMM.Socket.A6</Property>
+      <Property Name="BankName">A</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DADF2</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.A6</Property>
+      <Property Name="DeviceDescription">DIMM A6</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8489</Property>
+      <Property Name="Name">DIMM.Socket.C12</Property>
+      <Property Name="BankName">C</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE03</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.C12</Property>
+      <Property Name="DeviceDescription">DIMM C12</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8490</Property>
+      <Property Name="Name">DIMM.Socket.B8</Property>
+      <Property Name="BankName">B</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAEF7</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.B8</Property>
+      <Property Name="DeviceDescription">DIMM B8</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8491</Property>
+      <Property Name="Name">DIMM.Socket.A7</Property>
+      <Property Name="BankName">A</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC52A</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.A7</Property>
+      <Property Name="DeviceDescription">DIMM A7</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">8492</Property>
+      <Property Name="Name">DIMM.Socket.B6</Property>
+      <Property Name="BankName">B</Property>
+      <Property Name="Size">8192</Property>
+      <Property Name="Status">0</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC50B</Property>
+      <Property Name="TypeDetails">DDR4</Property>
+      <Property Name="ManufacturerDate">Mon Dec 04 13:00:00 2017 UTC</Property>
+      <Property Name="Speed">2666</Property>
+      <Property Name="CurrentOperatingSpeed">2666</Property>
+      <Property Name="Rank">Single Rank</Property>
+      <Property Name="InstanceId">DIMM.Socket.B6</Property>
+      <Property Name="DeviceDescription">DIMM B6</Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('serverStorageEnclosures')</Property>
+  <Property Name="InventoryType">serverStorageEnclosures</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Id">872</Property>
+      <Property Name="Name">BP14G+EXP 0:1</Property>
+      <Property Name="Status">2000</Property>
+      <Property Name="StatusTypeString">Unknown</Property>
+      <Property Name="ChannelNumber">0</Property>
+      <Property Name="BackplanePartNum">1</Property>
+      <Property Name="NumberOfFanPacks">0</Property>
+      <Property Name="Version">2.52</Property>
+      <Property Name="RollupStatus">0</Property>
+      <Property Name="SlotCount">24</Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('serverSupportedPowerStates')</Property>
+  <Property Name="InventoryType">serverSupportedPowerStates</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Id">4585</Property>
+      <Property Name="PowerState">2</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">4586</Property>
+      <Property Name="PowerState">5</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">4587</Property>
+      <Property Name="PowerState">8</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">4588</Property>
+      <Property Name="PowerState">10</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">4589</Property>
+      <Property Name="PowerState">11</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">4590</Property>
+      <Property Name="PowerState">12</Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('deviceLicense')</Property>
+  <Property Name="InventoryType">deviceLicense</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="SoldDate">2018-02-02 19:04:45.000</Property>
+      <Property Name="LicenseBound">4</Property>
+      <Property Name="EvalTimeRemaining">0</Property>
+      <Property Name="AssignedDevices">iDRAC.Embedded.1</Property>
+      <Property Name="LicenseStatus">1000</Property>
+      <Property Name="EntitlementId">FD00000010487654</Property>
+      <Property Name="LicenseDescription">iDRAC9 Enterprise License</Property>
+      <Property Name="LicenseType">
+        <Property Name="Name">Perpetual</Property>
+        <Property Name="LicenseId">1</Property>
+      </Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('deviceCapabilities')</Property>
+  <Property Name="InventoryType">deviceCapabilities</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Id">14198</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">212</Property>
+        <Property Name="Name">DIAGNOSTICS_HTTPS_CAPABLE</Property>
+        <Property Name="Description">Capability to indicate that device is supporting Diagnostics using HTTPS Share.</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14200</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">18</Property>
+        <Property Name="Name">DEVICE_ALERT</Property>
+        <Property Name="Description">Device capable of sending alerts.</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14235</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">210</Property>
+        <Property Name="Name">REDFISH_CAPABILITY_EXTENSION</Property>
+        <Property Name="Description">Capability to indicate that device is supporting firmware update, realtime power and thermal read, reset etc using Redfish protocol.</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">18734</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">1009</Property>
+        <Property Name="Name">BLINK_ON_OFF_ONLY</Property>
+        <Property Name="Description">Identify function on server ON indefinitely or OFF only</Property>
+        <Property Name="IdOwner">30</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14202</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">16</Property>
+        <Property Name="Name">VIRTUAL_CONSOLE</Property>
+        <Property Name="Description">Ability to execute RACADM tasks</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">18727</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">1104</Property>
+        <Property Name="Name">AIRFLOW_METRIC</Property>
+        <Property Name="Description">Airflow metrics monitoring capable</Property>
+        <Property Name="IdOwner">40</Property>
+      </Property>
+      <Property Name="IdOwner">40</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14203</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">208</Property>
+        <Property Name="Name">HTTPS_CAPABLE</Property>
+        <Property Name="Description">Capability to indicate that device is HTTPS support capable.</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14205</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">14</Property>
+        <Property Name="Name">POWER_HISTORY</Property>
+        <Property Name="Description">Retrieve historical power data</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">18728</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">1102</Property>
+        <Property Name="Name">TEMPERATURE_METRIC</Property>
+        <Property Name="Description">Temperature metrics monitoring capable</Property>
+        <Property Name="IdOwner">40</Property>
+      </Property>
+      <Property Name="IdOwner">40</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14207</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">12</Property>
+        <Property Name="Name">DIAGS</Property>
+        <Property Name="Description">Diagnostics</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14210</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">41</Property>
+        <Property Name="Name">SHARED_STORAGE_ALLLOWED</Property>
+        <Property Name="Description">Capability to share externally assigned Storage</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">18733</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">1001</Property>
+        <Property Name="Name">VIRTUAL_CONSOLE_SESSION</Property>
+        <Property Name="Description">Ability to create a virtual console session</Property>
+        <Property Name="IdOwner">30</Property>
+      </Property>
+      <Property Name="IdOwner">30</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14211</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">8</Property>
+        <Property Name="Name">FW_UPDATE</Property>
+        <Property Name="Description">Remote Firmware update capability. </Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">18735</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">6</Property>
+        <Property Name="Name">TEMPERATURE_MONITOR</Property>
+        <Property Name="Description">Temp statistics retrieval</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14213</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">4</Property>
+        <Property Name="Name">SENSOR_DETAILS</Property>
+        <Property Name="Description">Get Sensor Info, sub system health details</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14215</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">2</Property>
+        <Property Name="Name">POWER_CONTROL_OFF</Property>
+        <Property Name="Description">Power Down hard/graceful</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14217</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">31</Property>
+        <Property Name="Name">REMOTE_IPMI</Property>
+        <Property Name="Description">Ability to execute IPMI tasks</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">18736</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">1012</Property>
+        <Property Name="Name">BASIC_METRICS</Property>
+        <Property Name="Description">Indicates the capability to retrieve basic metrics</Property>
+        <Property Name="IdOwner">30</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14199</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">211</Property>
+        <Property Name="Name">TSR_HTTPS_CAPABLE</Property>
+        <Property Name="Description">Capability to indicate that device is supporting TSR using HTTPS Share.</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">18737</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">50</Property>
+        <Property Name="Name">ONBOARDING</Property>
+        <Property Name="Description">Ability to do on-boarding</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14201</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">17</Property>
+        <Property Name="Name">FEATURES_14G</Property>
+        <Property Name="Description">14G specific features</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">18729</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">1105</Property>
+        <Property Name="Name">POWER_CAP</Property>
+        <Property Name="Description">Capable to apply power cap</Property>
+        <Property Name="IdOwner">40</Property>
+      </Property>
+      <Property Name="IdOwner">40</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">18732</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">209</Property>
+        <Property Name="Name">REDFISH_CAPABLE</Property>
+        <Property Name="Description">Capability to indicate that device is discovered via Redfish protocol.</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+      <Property Name="IdOwner">30</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14204</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">15</Property>
+        <Property Name="Name">TEMP_HISTORY</Property>
+        <Property Name="Description">Retrieve historical temperature data</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">18730</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">1103</Property>
+        <Property Name="Name">UTILIZATION_METRIC</Property>
+        <Property Name="Description">Subsystem utilization metrics monitoring capable</Property>
+        <Property Name="IdOwner">40</Property>
+      </Property>
+      <Property Name="IdOwner">40</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14206</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">13</Property>
+        <Property Name="Name">TSR</Property>
+        <Property Name="Description">Tech Support Report</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">18731</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">1101</Property>
+        <Property Name="Name">POWER_METRIC</Property>
+        <Property Name="Description">Power metrics monitoring capable</Property>
+        <Property Name="IdOwner">40</Property>
+      </Property>
+      <Property Name="IdOwner">40</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14208</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">11</Property>
+        <Property Name="Name">HW_LOGS </Property>
+        <Property Name="Description">System Hardware logs</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14209</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">9</Property>
+        <Property Name="Name">BLINK</Property>
+        <Property Name="Description">Identify function on a device</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14212</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">7</Property>
+        <Property Name="Name">CONFIGURE</Property>
+        <Property Name="Description">Set attributes on the system</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">18738</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">5</Property>
+        <Property Name="Name">POWER_MONITOR</Property>
+        <Property Name="Description">Power statistics retrieval</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14214</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">3</Property>
+        <Property Name="Name">POWER_CONTROL_RESET</Property>
+        <Property Name="Description">Power reset hard/graceful</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14216</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">1</Property>
+        <Property Name="Name">POWER_CONTROL_ON</Property>
+        <Property Name="Description">Power up</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+    <Property>
+      <Property Name="Id">14218</Property>
+      <Property Name="CapabilityType">
+        <Property Name="CapabilityId">30</Property>
+        <Property Name="Name">REMOTE_RACADM</Property>
+        <Property Name="Description">Ability to execute RACADM tasks</Property>
+        <Property Name="IdOwner">10</Property>
+      </Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('deviceFru')</Property>
+  <Property Name="InventoryType">deviceFru</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12381</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE10</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12369</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC556</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12402</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE14</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12371</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE16</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12388</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DADF8</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision">A06</Property>
+      <Property Name="Id">12368</Property>
+      <Property Name="Manufacturer">Dell</Property>
+      <Property Name="Name">BRCM GbE 4P 5720-t rNDC</Property>
+      <Property Name="PartNumber">0FM487</Property>
+      <Property Name="SerialNumber">CN7361479J0212</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12370</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC512</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12386</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC507</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12397</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE00</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12366</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC504</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12376</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC4FE</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12391</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE02</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12403</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC50A</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12405</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE13</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12380</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DADEF</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12384</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC500</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12408</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC501</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12390</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE24</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12379</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE08</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12362</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC50A</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12372</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC507</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12363</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DADF7</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12377</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DADF2</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12394</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC52D</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12367</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAEE6</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12361</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC4F9</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12407</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE15</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12395</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC50B</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12392</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC4FA</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12387</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC506</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12365</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC52C</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12364</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE71</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12374</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE12</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12398</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DADED</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12396</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE07</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12410</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC505</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12401</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAEE9</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12383</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC512</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12382</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAEF7</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision">X30</Property>
+      <Property Name="Id">12399</Property>
+      <Property Name="Manufacturer">Dell</Property>
+      <Property Name="Name">DRIVE BACKPLANE</Property>
+      <Property Name="PartNumber">04HWVY</Property>
+      <Property Name="SerialNumber">CNIVC007CI0121</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12404</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC50F</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12406</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE11</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12411</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC555</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12359</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE03</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision">A00</Property>
+      <Property Name="Id">12360</Property>
+      <Property Name="Manufacturer">Dell</Property>
+      <Property Name="Name">Intel(R) 10GbE 2P X710 Adapter</Property>
+      <Property Name="PartNumber">05N7Y5</Property>
+      <Property Name="SerialNumber">MY1240255I045A</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision">X30</Property>
+      <Property Name="Id">12385</Property>
+      <Property Name="Manufacturer">Dell Inc.</Property>
+      <Property Name="Name">SystemPlanar</Property>
+      <Property Name="PartNumber">08XR9M</Property>
+      <Property Name="SerialNumber">CNIVC0081D0053</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12409</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DADEE</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision">A00</Property>
+      <Property Name="Id">12389</Property>
+      <Property Name="Manufacturer">Dell</Property>
+      <Property Name="Name">Dell Storage Cntlr. H740P - Adp.</Property>
+      <Property Name="PartNumber">0DPNHJ</Property>
+      <Property Name="SerialNumber">CNFCP00812001X</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12400</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAE16</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12375</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DAEDE</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12373</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC52A</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12378</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC509</Property>
+    </Property>
+    <Property>
+      <Property Name="Revision"></Property>
+      <Property Name="Id">12393</Property>
+      <Property Name="Manufacturer">Hynix Semiconductor</Property>
+      <Property Name="Name">DDR4 DIMM</Property>
+      <Property Name="PartNumber">HMA81GR7AFR8N-VK</Property>
+      <Property Name="SerialNumber">424DC508</Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('deviceLocation')</Property>
+  <Property Name="InventoryType">deviceLocation</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Id">794</Property>
+      <Property Name="Room">Garage</Property>
+      <Property Name="Rack">The 24U one</Property>
+      <Property Name="Aisle">Back corner</Property>
+      <Property Name="Datacenter">Home</Property>
+      <Property Name="Rackslot">10</Property>
+      <Property Name="ManagementSystemUnit">2</Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('deviceManagement')</Property>
+  <Property Name="InventoryType">deviceManagement</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="ManagementId">6630</Property>
+      <Property Name="IpAddress">192.168.234.112</Property>
+      <Property Name="MacAddress">58:8a:5a:ef:bb:f2</Property>
+      <Property Name="InstrumentationName"></Property>
+      <Property Name="DnsName">iDRAC-HNCRDN2.home.lan</Property>
+      <Property Name="ManagementType">
+        <Property Name="ManagementType">2</Property>
+        <Property Name="Name">PUBLIC</Property>
+        <Property Name="Description">Public Management Interface</Property>
+      </Property>
+      <Property Name="EndPointAgents">
+        <Property>
+          <Property Name="ManagementProfileId">6635</Property>
+          <Property Name="ProfileId"></Property>
+          <Property Name="AgentName">iDRAC</Property>
+          <Property Name="Version">5.10.10.00</Property>
+          <Property Name="ManagementURL">https://192.168.234.112:443</Property>
+          <Property Name="HasCreds">1</Property>
+          <Property Name="Status">1000</Property>
+          <Property Name="StatusDateTime">2022-06-02 15:44:29.529</Property>
+        </Property>
+        <Property>
+          <Property Name="ManagementProfileId">6633</Property>
+          <Property Name="ProfileId"></Property>
+          <Property Name="AgentName">iDRAC</Property>
+          <Property Name="Version">5.10.10.00</Property>
+          <Property Name="ManagementURL">https://192.168.234.112:443</Property>
+          <Property Name="HasCreds">1</Property>
+          <Property Name="Status">1000</Property>
+          <Property Name="StatusDateTime">2022-06-02 15:44:29.377</Property>
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('deviceSoftware')</Property>
+  <Property Name="InventoryType">deviceSoftware</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Version">KT3A</Property>
+      <Property Name="InstallationDate">2022-05-11 17:19:42.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">105231</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Disk 9 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#304_C_Disk.Bay.9:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">22.00.6</Property>
+      <Property Name="InstallationDate">2022-05-11 17:20:16.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">14E4</Property>
+      <Property Name="SubDeviceId">1F5B</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">27481</Property>
+      <Property Name="PciDeviceId">165F</Property>
+      <Property Name="DeviceDescription">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6E</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#701__NIC.Integrated.1-3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">KT3A</Property>
+      <Property Name="InstallationDate">2022-05-11 17:19:35.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">105231</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Disk 1 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#304_C_Disk.Bay.1:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">2.52</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">104102</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Backplane 1</Property>
+      <Property Name="InstanceId">DCIM:CURRENT#314_C_RAID.Backplane.Firmware.1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">KT3A</Property>
+      <Property Name="InstallationDate">2022-05-11 17:19:36.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">105231</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Disk 2 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#304_C_Disk.Bay.2:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">2.14.2</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">BIOS</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">159</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">BIOS</Property>
+      <Property Name="InstanceId">DCIM:CURRENT#741__BIOS.Setup.1-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">2.14.2</Property>
+      <Property Name="InstallationDate">2022-06-30 15:23:03.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">BIOS</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">159</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">BIOS</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#741__BIOS.Setup.1-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">KT3A</Property>
+      <Property Name="InstallationDate">2022-05-11 17:19:35.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">105231</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Disk 0 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#304_C_Disk.Bay.0:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">22.00.6</Property>
+      <Property Name="InstallationDate">2022-05-11 17:20:21.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">14E4</Property>
+      <Property Name="SubDeviceId">1F5B</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">27481</Property>
+      <Property Name="PciDeviceId">165F</Property>
+      <Property Name="DeviceDescription">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6F</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#701__NIC.Integrated.1-4-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">4.22.00.53</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">25227</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Integrated Dell Remote Access Controller</Property>
+      <Property Name="InstanceId">DCIM:PREVIOUS#iDRAC.Embedded.1-1#IDRACinfo</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">20.5.13</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">8086</Property>
+      <Property Name="SubDeviceId">0000</Property>
+      <Property Name="SubVendorId">8086</Property>
+      <Property Name="ComponentId">102302</Property>
+      <Property Name="PciDeviceId">1572</Property>
+      <Property Name="DeviceDescription">Intel(R) Ethernet Converged Network Adapter X710 - 3C:FD:FE:06:49:62</Property>
+      <Property Name="InstanceId">DCIM:CURRENT#701__NIC.Slot.4-2-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">KT3A</Property>
+      <Property Name="InstallationDate">2022-05-11 17:19:39.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">105231</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Disk 6 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#304_C_Disk.Bay.6:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">51.16.0-4076</Property>
+      <Property Name="InstallationDate">2022-05-11 17:19:33.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">1000</Property>
+      <Property Name="SubDeviceId">1FCB</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">104893</Property>
+      <Property Name="PciDeviceId">0016</Property>
+      <Property Name="DeviceDescription">PERC H740P Adapter </Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#301_C_RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">4301A68</Property>
+      <Property Name="InstallationDate">2022-05-11 15:21:38.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">APAC</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">25806</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Dell 64 Bit uEFI Diagnostics, version 4301, 4301A68, 4301.69</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#802__Diagnostics.Embedded.1:LC.Embedded.1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">22.00.6</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">14E4</Property>
+      <Property Name="SubDeviceId">1F5B</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">27481</Property>
+      <Property Name="PciDeviceId">165F</Property>
+      <Property Name="DeviceDescription">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6E</Property>
+      <Property Name="InstanceId">DCIM:CURRENT#701__NIC.Integrated.1-3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">20.6.52</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">14E4</Property>
+      <Property Name="SubDeviceId">1F5B</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">27481</Property>
+      <Property Name="PciDeviceId">165F</Property>
+      <Property Name="DeviceDescription">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6C</Property>
+      <Property Name="InstanceId">DCIM:PREVIOUS#701__NIC.Integrated.1-1-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">00.1D.7D</Property>
+      <Property Name="InstallationDate">2018-02-15 16:53:48.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">101100</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Power Supply.Slot.1</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#0x15__PSU.Slot.1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">0.1.6</Property>
+      <Property Name="InstallationDate">2018-02-15 16:53:59.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">27763</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">System CPLD</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#803__CPLD.Embedded.1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">22.00.6</Property>
+      <Property Name="InstallationDate">2022-05-11 17:20:25.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">14E4</Property>
+      <Property Name="SubDeviceId">1F5B</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">27481</Property>
+      <Property Name="PciDeviceId">165F</Property>
+      <Property Name="DeviceDescription">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6D</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#701__NIC.Integrated.1-2-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">2.17</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">104102</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Backplane 1</Property>
+      <Property Name="InstanceId">DCIM:PREVIOUS#314_C_RAID.Backplane.Firmware.1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">22.00.6</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">14E4</Property>
+      <Property Name="SubDeviceId">1F5B</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">27481</Property>
+      <Property Name="PciDeviceId">165F</Property>
+      <Property Name="DeviceDescription">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6C</Property>
+      <Property Name="InstanceId">DCIM:CURRENT#701__NIC.Integrated.1-1-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">KT3A</Property>
+      <Property Name="InstallationDate">2022-05-11 17:19:40.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">105231</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Disk 7 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#304_C_Disk.Bay.7:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">KT3A</Property>
+      <Property Name="InstallationDate">2022-05-11 17:19:44.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">105231</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Disk 11 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#304_C_Disk.Bay.11:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">20.5.13</Property>
+      <Property Name="InstallationDate">2022-05-11 17:20:26.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">8086</Property>
+      <Property Name="SubDeviceId">0006</Property>
+      <Property Name="SubVendorId">8086</Property>
+      <Property Name="ComponentId">102301</Property>
+      <Property Name="PciDeviceId">1572</Property>
+      <Property Name="DeviceDescription">Intel(R) Ethernet Converged Network Adapter X710 - 3C:FD:FE:06:49:60</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#701__NIC.Slot.4-1-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">00.1D.7D</Property>
+      <Property Name="InstallationDate">2018-02-15 16:53:48.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">101100</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Power Supply.Slot.2</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#0x15__PSU.Slot.2</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">4.2.0.0</Property>
+      <Property Name="InstallationDate">2022-05-11 15:18:59.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">APAC</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">104684</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Dell EMC iDRAC Service Module Embedded Package v4.2.0.0, A00</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#802__ServiceModule.Embedded.1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">51.16.0-4076</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">1000</Property>
+      <Property Name="SubDeviceId">1FCB</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">104893</Property>
+      <Property Name="PciDeviceId">0016</Property>
+      <Property Name="DeviceDescription">PERC H740P Adapter </Property>
+      <Property Name="InstanceId">DCIM:CURRENT#301_C_RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">21.07.06</Property>
+      <Property Name="InstallationDate">2022-05-11 15:21:14.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">APAC</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">18981</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Dell OS Driver Pack, 21.07.06, A00</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#802__DriverPack.Embedded.1:LC.Embedded.1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">20.5.13</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">8086</Property>
+      <Property Name="SubDeviceId">0006</Property>
+      <Property Name="SubVendorId">8086</Property>
+      <Property Name="ComponentId">102301</Property>
+      <Property Name="PciDeviceId">1572</Property>
+      <Property Name="DeviceDescription">Intel(R) Ethernet Converged Network Adapter X710 - 3C:FD:FE:06:49:60</Property>
+      <Property Name="InstanceId">DCIM:CURRENT#701__NIC.Slot.4-1-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">22.00.6</Property>
+      <Property Name="InstallationDate">2022-05-11 17:20:23.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">14E4</Property>
+      <Property Name="SubDeviceId">1F5B</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">27481</Property>
+      <Property Name="PciDeviceId">165F</Property>
+      <Property Name="DeviceDescription">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6C</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#701__NIC.Integrated.1-1-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">20.6.52</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">14E4</Property>
+      <Property Name="SubDeviceId">1F5B</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">27481</Property>
+      <Property Name="PciDeviceId">165F</Property>
+      <Property Name="DeviceDescription">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6F</Property>
+      <Property Name="InstanceId">DCIM:PREVIOUS#701__NIC.Integrated.1-4-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">22.00.6</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">14E4</Property>
+      <Property Name="SubDeviceId">1F5B</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">27481</Property>
+      <Property Name="PciDeviceId">165F</Property>
+      <Property Name="DeviceDescription">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6F</Property>
+      <Property Name="InstanceId">DCIM:CURRENT#701__NIC.Integrated.1-4-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">6.0</Property>
+      <Property Name="InstallationDate">2022-05-11 15:19:37.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">APAC</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">101734</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">OS COLLECTOR, v6.0, A00</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#802__OSCollector.Embedded.1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">KT3A</Property>
+      <Property Name="InstallationDate">2022-05-11 17:19:37.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">105231</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Disk 3 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#304_C_Disk.Bay.3:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">KT3A</Property>
+      <Property Name="InstallationDate">2022-05-11 17:19:41.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">105231</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Disk 8 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#304_C_Disk.Bay.8:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">5.10.10.00</Property>
+      <Property Name="InstallationDate">2022-05-11 18:02:34.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">APAC</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">28897</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Lifecycle Controller</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#802__USC.Embedded.1:LC.Embedded.1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">50.0.1-0639</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">1000</Property>
+      <Property Name="SubDeviceId">1FCB</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">104893</Property>
+      <Property Name="PciDeviceId">0016</Property>
+      <Property Name="DeviceDescription">PERC H740P Adapter </Property>
+      <Property Name="InstanceId">DCIM:PREVIOUS#301_C_RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">5.10.10.00</Property>
+      <Property Name="InstallationDate">2022-05-11 18:02:28.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">25227</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Integrated Dell Remote Access Controller</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#iDRAC.Embedded.1-1#IDRACinfo</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">2.52</Property>
+      <Property Name="InstallationDate">2022-05-11 18:03:33.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">104102</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Backplane 1</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#314_C_RAID.Backplane.Firmware.1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">20.5.13</Property>
+      <Property Name="InstallationDate">2022-05-11 17:20:28.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">8086</Property>
+      <Property Name="SubDeviceId">0000</Property>
+      <Property Name="SubVendorId">8086</Property>
+      <Property Name="ComponentId">102302</Property>
+      <Property Name="PciDeviceId">1572</Property>
+      <Property Name="DeviceDescription">Intel(R) Ethernet Converged Network Adapter X710 - 3C:FD:FE:06:49:62</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#701__NIC.Slot.4-2-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">20.6.52</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">14E4</Property>
+      <Property Name="SubDeviceId">1F5B</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">27481</Property>
+      <Property Name="PciDeviceId">165F</Property>
+      <Property Name="DeviceDescription">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6D</Property>
+      <Property Name="InstanceId">DCIM:PREVIOUS#701__NIC.Integrated.1-2-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">KT3A</Property>
+      <Property Name="InstallationDate">2022-05-11 17:19:38.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">105231</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Disk 4 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#304_C_Disk.Bay.4:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">22.00.6</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">14E4</Property>
+      <Property Name="SubDeviceId">1F5B</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">27481</Property>
+      <Property Name="PciDeviceId">165F</Property>
+      <Property Name="DeviceDescription">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6D</Property>
+      <Property Name="InstanceId">DCIM:CURRENT#701__NIC.Integrated.1-2-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">2.13.3</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">BIOS</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">159</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">BIOS</Property>
+      <Property Name="InstanceId">DCIM:PREVIOUS#741__BIOS.Setup.1-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">20.6.52</Property>
+      <Property Name="InstallationDate">NA</Property>
+      <Property Name="Status">Available</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId">14E4</Property>
+      <Property Name="SubDeviceId">1F5B</Property>
+      <Property Name="SubVendorId">1028</Property>
+      <Property Name="ComponentId">27481</Property>
+      <Property Name="PciDeviceId">165F</Property>
+      <Property Name="DeviceDescription">Broadcom Gigabit Ethernet BCM5720 - 80:18:44:F0:4F:6E</Property>
+      <Property Name="InstanceId">DCIM:PREVIOUS#701__NIC.Integrated.1-3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">KT3A</Property>
+      <Property Name="InstallationDate">2022-05-11 17:19:39.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">105231</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Disk 5 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#304_C_Disk.Bay.5:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+    </Property>
+    <Property>
+      <Property Name="Version">KT3A</Property>
+      <Property Name="InstallationDate">2022-05-11 17:19:43.000</Property>
+      <Property Name="Status">Installed</Property>
+      <Property Name="SoftwareType">FRMW</Property>
+      <Property Name="VendorId"></Property>
+      <Property Name="SubDeviceId"></Property>
+      <Property Name="SubVendorId"></Property>
+      <Property Name="ComponentId">105231</Property>
+      <Property Name="PciDeviceId"></Property>
+      <Property Name="DeviceDescription">Disk 10 in Backplane 1 of RAID Controller in Slot 3</Property>
+      <Property Name="InstanceId">DCIM:INSTALLED#304_C_Disk.Bay.10:Enclosure.Internal.0-1:RAID.Slot.3-1</Property>
+    </Property>
+  </Property>
+</Object>
+<Object>
+  <Property Name="@odata.type">#DeviceService.InventoryDetail</Property>
+  <Property Name="@odata.id">/api/DeviceService/Devices(20887)/InventoryDetails('subsystemRollupStatus')</Property>
+  <Property Name="InventoryType">subsystemRollupStatus</Property>
+  <Property Name="InventoryInfo">
+    <Property>
+      <Property Name="Id">7121</Property>
+      <Property Name="Status">2000</Property>
+      <Property Name="SubsystemName">cpuRollupStatus</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">7122</Property>
+      <Property Name="Status">1000</Property>
+      <Property Name="SubsystemName">sysMemPrimaryStatus</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">7123</Property>
+      <Property Name="Status">1000</Property>
+      <Property Name="SubsystemName">voltRollupStatus</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">7124</Property>
+      <Property Name="Status">1000</Property>
+      <Property Name="SubsystemName">batteryRollupStatus</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">7125</Property>
+      <Property Name="Status">1000</Property>
+      <Property Name="SubsystemName">licensingRollupStatus</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">7126</Property>
+      <Property Name="Status">1000</Property>
+      <Property Name="SubsystemName">storageRollupStatus</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">7127</Property>
+      <Property Name="Status">1000</Property>
+      <Property Name="SubsystemName">tempRollupStatus</Property>
+    </Property>
+    <Property>
+      <Property Name="Id">7128</Property>
+      <Property Name="Status">1000</Property>
+      <Property Name="SubsystemName">intrusionRollupStatus</Property>
+    </Property>
+  </Property>
+</Object>
+</Objects>
