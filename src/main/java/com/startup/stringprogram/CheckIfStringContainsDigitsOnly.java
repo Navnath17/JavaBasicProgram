@@ -11,9 +11,16 @@ public class CheckIfStringContainsDigitsOnly {
 	}
 
 	private static void digitsOnlyString(String string) {
-		if(string.matches("\\d+")) System.out.println("Digit Only String ::"+string);
+		if(string.matches("\\d+")) 
+			System.out.println("Digit Only String ::"+string);
+		
 		
 		try {
+			for(int i=0; i<=string.length()-1; i++) {
+				if(Character.isDigit(string.charAt(i))) {
+					System.out.println("string is ::"+string.charAt(i));
+				}
+			}
 			long l = Long.parseLong(string);
 			System.out.println("Digit Only String ::"+string);
 		}catch(Exception e){
